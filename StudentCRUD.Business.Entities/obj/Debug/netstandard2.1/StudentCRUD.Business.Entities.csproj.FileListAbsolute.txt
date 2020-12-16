@@ -1,0 +1,11 @@
+C:\projects\StudentsCRUD\StudentCRUD_Api\StudentCRUD.Business.Entities\bin\Debug\netstandard2.1\StudentCRUD.Business.Entities.deps.json
+C:\projects\StudentsCRUD\StudentCRUD_Api\StudentCRUD.Business.Entities\bin\Debug\netstandard2.1\StudentCRUD.Business.Entities.dll
+C:\projects\StudentsCRUD\StudentCRUD_Api\StudentCRUD.Business.Entities\bin\Debug\netstandard2.1\StudentCRUD.Business.Entities.pdb
+C:\projects\StudentsCRUD\StudentCRUD_Api\StudentCRUD.Business.Entities\bin\Debug\netstandard2.1\Core.Common.dll
+C:\projects\StudentsCRUD\StudentCRUD_Api\StudentCRUD.Business.Entities\bin\Debug\netstandard2.1\Core.Common.pdb
+C:\projects\StudentsCRUD\StudentCRUD_Api\StudentCRUD.Business.Entities\obj\Debug\netstandard2.1\StudentCRUD.Business.Entities.csprojAssemblyReference.cache
+C:\projects\StudentsCRUD\StudentCRUD_Api\StudentCRUD.Business.Entities\obj\Debug\netstandard2.1\StudentCRUD.Business.Entities.AssemblyInfoInputs.cache
+C:\projects\StudentsCRUD\StudentCRUD_Api\StudentCRUD.Business.Entities\obj\Debug\netstandard2.1\StudentCRUD.Business.Entities.AssemblyInfo.cs
+C:\projects\StudentsCRUD\StudentCRUD_Api\StudentCRUD.Business.Entities\obj\Debug\netstandard2.1\StudentCRUD.Business.Entities.csproj.CopyComplete
+C:\projects\StudentsCRUD\StudentCRUD_Api\StudentCRUD.Business.Entities\obj\Debug\netstandard2.1\StudentCRUD.Business.Entities.dll
+C:\projects\StudentsCRUD\StudentCRUD_Api\StudentCRUD.Business.Entities\obj\Debug\netstandard2.1\StudentCRUD.Business.Entities.pdb
